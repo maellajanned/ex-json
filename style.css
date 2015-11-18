@@ -1,6 +1,9 @@
 html, body{height: 100%;
 width: 100%;}
-
+.affich{
+  width: 800px;
+  margin: auto;
+}
 .lal{
     width:25%;
     height:25%;
